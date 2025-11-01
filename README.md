@@ -1,6 +1,7 @@
 # nvidia_dli
 - 25/11/01 
 - https://tinyurl.com/44w9f5m3
+- https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+S-RX-02+V2-KR&unit=block-v1:DLI+S-RX-02+V2-KR+type@vertical+block@aba5104413ae454c8c63a6f301925337
 
 ## SD Card burning
 - https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
