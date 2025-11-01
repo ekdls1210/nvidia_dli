@@ -1,6 +1,6 @@
 # nvidia_dli
-25/11/01 
-https://tinyurl.com/44w9f5m3
+- 25/11/01 
+- https://tinyurl.com/44w9f5m3
 
 ## SD Card burning
 - https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write
